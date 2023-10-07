@@ -15,6 +15,9 @@ public class Main {
             System.out.println("ddd");
             System.out.println("ddd");
             System.out.println("ddd");
+            System.out.println("ddd");
+            "ddd".replaceAll("\\", "");
+
         }
     }
 }
